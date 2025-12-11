@@ -1,7 +1,7 @@
 sources:
   - name: erp
     database: fea25_05
-    schema: raw_northwind
+    schema: dbt_mferreira
     tables: 
       - name: category
       - name: products
